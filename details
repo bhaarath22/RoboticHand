@@ -1,0 +1,6 @@
+Collaborated with a 2-person team to design and build a prosthetic robotic hand, leveraging Muscle Sensor Technology (EMG signal) and Arduino MicroController.
+Explored the concept of pulse modulation, enabling users to operate the hand using their muscle signals.
+Although the project faced challenges in achieving the desired level of accuracy, it provided valuable hands-on experience in robotics, including:
+Designing and integrating EMG sensors with Arduino MicroController.
+Developing algorithms for signal processing and hand control.
+Troubleshooting and refining the system for improved performance.
